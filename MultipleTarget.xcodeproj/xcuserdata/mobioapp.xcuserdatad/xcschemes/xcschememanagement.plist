@@ -4,10 +4,55 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>MultipleTarget copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>MultipleTarget-Pro.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>MultipleTarget-QA.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>MultipleTarget.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>9624492F258CF09100182678</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96244945258CF09300182678</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96244950258CF09300182678</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96928F032598CF6B00589557</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>96928F162598CFB700589557</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
